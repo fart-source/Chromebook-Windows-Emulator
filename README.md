@@ -8,7 +8,7 @@ This is a toolkit that allows you to create a Windows emulator for your chromebo
 
   2. Go to settings.
     
-    Note: We are going to turn on your chromebooks "Play Store" abilites. If you know sure as a fact that it is on, or know how to turn it on, skip this step. It is reccomended that you check again anyway.
+    Note: We are going to turn on your chromebooks "Google Play Store" abilites. If you know sure as a fact that it is on, or know how to turn it on, skip the next step. Even if you think it is on, it is reccomended that you check again anyway.
   
   3. Under the "Apps" Section, Turn on the "Google Play Store" option.
   
@@ -18,6 +18,6 @@ This is a toolkit that allows you to create a Windows emulator for your chromebo
   
   6. Use the included pre-verified Windows ISO when you launch the Virtual Computer for the first time.
   
-    Note: DO NOT DELETE THE ISO ***EVER***
+    Note: DO NOT DELETE THE ISO EVER
     
     Note: Always open Virtual Box with Wine.
